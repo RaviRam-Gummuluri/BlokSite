@@ -19,11 +19,12 @@ year: 2022
 ### Members
 
 - Gummuluri Venkata Ravi Ram
+- Shreyas Udaya
+  
 - Diviz Akkshat
 - Harshak Sachdeva
 - Jalak Kamdar
 - Piyush Kumar Rauniyar
-- Shreyas Udaya
 
 ## Aim
 
@@ -57,10 +58,10 @@ general will serve as our resources and materials
 
 ### Snippets of code
 
-![image_1](chromeExt1.png)
+![image_1](ChromeExt1.png)
 This is the part where we can see the user input getting stored in chrome's storage.
 
-![image_2](chromeExt2.png)
+![image_2](ChromeExt2.png)
 This is a function from the google chrome extension library that is used for coding the extension.
 
 ## Conclusion
