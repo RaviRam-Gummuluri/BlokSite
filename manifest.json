@@ -1,0 +1,17 @@
+
+{
+    "manifest_version": 3,
+    "name": "BlokSite",
+    "version": "0.1.1",
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["Content.js"]
+      }
+    ],
+    "icons": {"128": "logo128.png" },
+    "action": {
+      "default_popup": "Popup.html",
+      "default_title": "BlokSite"
+    }
+  }
